@@ -7,6 +7,8 @@
 // @author       MilanRS@gmail.com
 // @match        https://www.prijevodi-online.org/smf/index.php?action=post*
 // @grant        none
+// @updateURL    https://github.com/MilanRS/prijevodi-online-resize-textarea/raw/master/prijevodi-online-resize-textarea.user.js
+// @downloadURL  https://github.com/MilanRS/prijevodi-online-resize-textarea/raw/master/prijevodi-online-resize-textarea.user.js
 // ==/UserScript==
 
 (function() {
